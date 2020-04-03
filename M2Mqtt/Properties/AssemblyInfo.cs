@@ -1,4 +1,4 @@
-﻿/*
+/*
 Copyright (c) 2013, 2014 Paolo Patierno
 
 All rights reserved. This program and the accompanying materials
@@ -40,5 +40,5 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("4.3.0.0")]
 // to avoid compilation error (AssemblyFileVersionAttribute doesn't exist) under .Net CF 3.5
 #if !WindowsCE
-[assembly: AssemblyFileVersion("4.3.0.0")]
+[assembly: AssemblyFileVersion("4.3.1.0")]
 #endif
